@@ -1,15 +1,5 @@
 {
-  "type": "RPGSystem",
   "id": "stratazar",
   "name": "Stratazar",
-  "version": "0.1",
-
-  "character_stats": [
-    {
-      "id": "for",
-      "name": "Força",
-      "type": "number",
-      "default_value": 8
-    }
-  ]
+  "version": "0.1"
 }
