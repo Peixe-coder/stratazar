@@ -1,5 +1,19 @@
 {
-  "id": "stratazar",
-  "name": "Stratazar",
-  "version": "0.1"
+  "id": "teste",
+  "name": "Sistema Teste",
+  "type": "system",
+  "version": "1.0",
+  "character_stats": [
+    {
+      "id": "nome",
+      "name": "Nome",
+      "type": "text"
+    },
+    {
+      "id": "forca",
+      "name": "Força",
+      "type": "number",
+      "default_value": 10
+    }
+  ]
 }
